@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shrikant Koltur</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomic-man007&label=Profile%20views&color=0e75b6&style=flat" alt="atomic-man007" /> </p>
-<h3 align="center">A passionate AI & machine learning how are going to change the world</h3>
+<h3 align="center">Enthusiastic about the transformative impact of AI and machine learning on the world.</h3>
 <img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atomic-man007" alt="atomic-man007" /></a> </p>
 
 
 - 🧑🏻‍🎓 Education: BSc, Pune
 - 🏢 Work:Data scientist @Iconic Data japan
-- 🔭 I’m currently working on **Generative AI**
-- 🌱 I’m currently learning **YOLO and LLM**
+- 🔭 I’m currently working on **Generative AI, Machine learning, LLM, NLP, Stable diffusion**
+- 🌱 I’m currently learning **YOLO, RPA and cybersecurity**
 - 👨‍💻 All of my projects are available at [https://github.com/Atomic-man007?tab=repositories](https://github.com/Atomic-man007?tab=repositories)
 - 📝 I regularly write articles on [https://medium.com/@shikantkoltur](https://medium.com/@shikantkoltur)
 - 👨‍💻 Interested in technologies like Data Analytics with python, Machine Learning,  Data visualization,  Generative AI Cloud Computing, Frontend Development with React JS, and Flutter Development.

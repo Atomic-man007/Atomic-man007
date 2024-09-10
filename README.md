@@ -4,6 +4,8 @@
 <img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atomic-man007" alt="atomic-man007" /></a> </p>
 
+<img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" />
+
 
 - 🧑🏻‍🎓 Education: BSc, Pune
 - 🏢 Work:Data scientist @Iconic Data japan

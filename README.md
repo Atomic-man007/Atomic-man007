@@ -4,8 +4,6 @@
 <img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atomic-man007" alt="atomic-man007" /></a> </p>
 
-<img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" />
-
 
 - 🧑🏻‍🎓 Education: BSc, Pune
 - 🏢 Work:Data scientist @Iconic Data japan
@@ -20,6 +18,7 @@
 - 📫 How to reach me **srikanthkoltur.sk@gmail.com**
 - ⚡ Fun fact **Outside of work, I enjoy immersing myself in personal development books. One of my favorites is "Attitude is Everything" by Jeff Keller. Let's connect and explore new opportunities in the world of AI & development! Feel free to reach out. 🌐✉️**
 
+<img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" />
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
